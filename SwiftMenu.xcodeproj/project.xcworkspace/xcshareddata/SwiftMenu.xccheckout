@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F23A090A-B583-44C5-9A33-B74D8DCF1885</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwiftMenu</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>36144BF19A2A9ACE9B9309BCCF9883BEAEBF001A</key>
+		<string>https://github.com/weishiyue/SwiftMenu.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwiftMenu.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>36144BF19A2A9ACE9B9309BCCF9883BEAEBF001A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/weishiyue/SwiftMenu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>36144BF19A2A9ACE9B9309BCCF9883BEAEBF001A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>36144BF19A2A9ACE9B9309BCCF9883BEAEBF001A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftMenu</string>
+		</dict>
+	</array>
+</dict>
+</plist>
